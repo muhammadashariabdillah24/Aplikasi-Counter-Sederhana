@@ -1,15 +1,7 @@
-# Counter App - React Introduction
+## Aplikasi-Counter-Sederhana
 
-## Happy coding!
+## Aplikasi ini dibuat dengan bahasa pemrograman Javascript dan memakai framework React JS
 
-##### Apa yang akan kamu pelajari dari app ini?
+## Versi 0.1
 
-- React state management (dengan useState)
-- React life cycle (dengan useEffect)
-- Bagaimana cara mengupdate state di React
-- Event handling di React (onClick dan onChange)
-- Membuat aplikasi dengan banyak Components
-- Memberikan type untuk props dengan prop-types
-- CSS Module dan dynamic className dengan classnames
-
-&copy; wegodev | version 1.1.0
+## Dibuat Oleh Muhammad Ashari Abdillah
