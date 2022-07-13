@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Aplikasi-Counter-Sederhana/static/css/main.2279f832.chunk.css",
+    "main.js": "/Aplikasi-Counter-Sederhana/static/js/main.40bb8712.chunk.js",
+    "main.js.map": "/Aplikasi-Counter-Sederhana/static/js/main.40bb8712.chunk.js.map",
+    "runtime-main.js": "/Aplikasi-Counter-Sederhana/static/js/runtime-main.dc796130.js",
+    "runtime-main.js.map": "/Aplikasi-Counter-Sederhana/static/js/runtime-main.dc796130.js.map",
+    "static/js/2.da19665b.chunk.js": "/Aplikasi-Counter-Sederhana/static/js/2.da19665b.chunk.js",
+    "static/js/2.da19665b.chunk.js.map": "/Aplikasi-Counter-Sederhana/static/js/2.da19665b.chunk.js.map",
+    "index.html": "/Aplikasi-Counter-Sederhana/index.html",
+    "static/css/main.2279f832.chunk.css.map": "/Aplikasi-Counter-Sederhana/static/css/main.2279f832.chunk.css.map",
+    "static/js/2.da19665b.chunk.js.LICENSE.txt": "/Aplikasi-Counter-Sederhana/static/js/2.da19665b.chunk.js.LICENSE.txt",
+    "static/media/minus-icon.e6e703ff.svg": "/Aplikasi-Counter-Sederhana/static/media/minus-icon.e6e703ff.svg",
+    "static/media/plus-icon.1b353b20.svg": "/Aplikasi-Counter-Sederhana/static/media/plus-icon.1b353b20.svg",
+    "static/media/shopping-icon.7f4eb869.svg": "/Aplikasi-Counter-Sederhana/static/media/shopping-icon.7f4eb869.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc796130.js",
+    "static/js/2.da19665b.chunk.js",
+    "static/css/main.2279f832.chunk.css",
+    "static/js/main.40bb8712.chunk.js"
+  ]
+}
