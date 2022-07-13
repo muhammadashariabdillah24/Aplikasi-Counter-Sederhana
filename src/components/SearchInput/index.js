@@ -2,11 +2,11 @@ import PropTypes from 'prop-types';
 
 import styles from './SearchInput.module.css'
 
-const SearchInput = ({ onSubmit, value }) => {
+const SearchInput = ({ onChange, onSubmit, value }) => {
     return (
         <form className={styles.form} onSubmit={onSubmit}>
             <input
-            // onChange={onChange}
+            onChange={onChange}
             value={value}
             className={styles.input}
             type="text"
@@ -19,7 +19,7 @@ const SearchInput = ({ onSubmit, value }) => {
 
 SearchInput.propTypes = {
     onSubmit: PropTypes.func,
-    // onChange: PropTypes.func,
+    onChange: PropTypes.func,
     value: PropTypes.string
 }
 
